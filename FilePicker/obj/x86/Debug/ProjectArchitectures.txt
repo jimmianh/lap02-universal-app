@@ -1,0 +1,1 @@
+C:\Users\DELL\source\repos\app\FilePicker\FilePicker.csproj;x86
